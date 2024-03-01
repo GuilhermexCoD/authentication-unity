@@ -1,6 +1,6 @@
 {
-  "name": "com.in-house-games.authentication-custom",
-  "displayName": "Authentication for Unity Custom",
+  "name": "com.in-house-games.authentication",
+  "displayName": "Authentication for Unity In House Games",
   "version": "1.0.0",
   "unity": "2022.3",
   "author": "CDM Vision",
