@@ -2,7 +2,7 @@
   "name": "com.in-house-games.authentication-custom",
   "displayName": "Authentication for Unity Custom",
   "version": "1.2.1",
-  "unity": "2021.3",
+  "unity": "2022.3",
   "author": "CDM Vision",
   "description": "Simple OAuth2 client for Unity.",
   "hideInEditor": false,

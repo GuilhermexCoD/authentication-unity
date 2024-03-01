@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.in-house-games.authentication-custom": {
-      "version": "file:com.cdm.authentication",
+      "version": "file:com.in-house-games.authentication-custom",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
